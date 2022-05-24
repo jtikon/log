@@ -1,4 +1,4 @@
-module github.com/jtikon/elak-log
+module github.com/jtikon/log
 
 go 1.18
 
